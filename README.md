@@ -47,7 +47,7 @@ OpenCV-Feature-Detection-and-Matching/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/OpenCV-Feature-Detection-and-Matching.git
+git clone https://github.com/marziehamiri/OpenCV-Feature-Detection-and-Matching.git
 ```
 
 2. Open the notebook using Jupyter Notebook or Google Colab.
